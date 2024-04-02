@@ -1,0 +1,14 @@
+pandas
+torch 
+transformers 
+accelerate 
+bitsandbytes 
+langchain 
+sentence-transformers  
+openpyxl 
+pacmap 
+datasets 
+einops 
+ragatouille
+tqdm
+flask
